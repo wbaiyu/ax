@@ -35,7 +35,7 @@ setup(
    author="wbaiyu",
     author_email='wbaiyu@outlook.com',
     url='https://github.com/wbaiyu/ax,
-    packages=find_packages(include=['avs']),
+    packages=find_packages(include=['ax']),
     include_package_data=True,
     install_requires=requirements,
     entry_points={
